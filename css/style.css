@@ -60,3 +60,7 @@ button{
 	box-shadow:  6px 6px 18px #bab8b8, 
              -6px -6px 18px #ffffff;
 }
+button:focus {
+	outline:none;
+	 border:none;
+}
